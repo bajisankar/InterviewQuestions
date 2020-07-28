@@ -1,2 +1,2 @@
 # InterviewQuestions
-List of Interview Q&amp;A collected
+List of Interview Q&A collected from experts in different technologies.
